@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @wijjayali
 - 👀 I’m interested in programming and data entry. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ..
 - 📫 wijjayali@gmail.com
 
-<!---
-wijjayali/wijjayali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a skilled data entry and graphic designer with a passion for precision. Proficient in data organization and visualization, I transform information into visually appealing designs that communicate effectively. Meticulous attention to detail ensures high-quality results.
